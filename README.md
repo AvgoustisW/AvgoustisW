@@ -1,6 +1,5 @@
 ### Hi there 👋
 I am a software engineer specializing in **React** based ecosystems.
-## 🚀 Tech Stack
 
 ### **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -28,18 +27,16 @@ I am a software engineer specializing in **React** based ecosystems.
 ![Storybook](https://img.shields.io/badge/Storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### **Cloud & Deployment**
+### **Cloud, Testing & Build Tools**
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-#### **Testing & Build Tools**
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Rollup](https://img.shields.io/badge/Rollup-%23EC4A3F.svg?style=for-the-badge&logo=rollup.js&logoColor=white) 
 ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white) 
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) 
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white) 
 
-#### **Backend & Database**
+#### **Backend & Databases**
 ![NodeJS](https://img.shields.io/badge/Node.JS-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
